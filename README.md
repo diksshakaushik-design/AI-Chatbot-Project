@@ -14,3 +14,6 @@
 ## How to Run
 1. Install Python
 2. Run: python chatbot.py
+3. ## Project Screenshot
+
+![Chatbot Screenshot](screenshot.png)
